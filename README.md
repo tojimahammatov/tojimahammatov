@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @tojimahammatov
+- 👀 I’m interested in:
+- 		'Software Engineering': ["Mobile", "Back-end", "Sysadmin"], 
+ 		'Machine Learning': ['Deep Learning', '2D/3D Object Detection'] 
+- 🌱 I’m currently learning/working on 3D Object Detection
+- ![alt text](https://github.com/tojimahammatov/tojimahammatov/lidar_view.png)  ![alt text](https://github.com/tojimahammatov/tojimahammatov/camera_view.png)
+- 💞️ I’m looking to collaborate on any interesting/hot topics ranging from Software Engineering to Machine Learning.
+- 📫 How to reach me ...
+
+<!---
+tojimahammatov/tojimahammatov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
