@@ -5,7 +5,7 @@
   		'AI': ['Deep Learning', '2D/3D Object Detection', 'Change Detection', 'Pose Estimation'],
         'Cloud': ['AWS', 'AWS EC2', 'AWS RDS', 'AWS S3']
 - 🌱 I've worked on 3D Object Detection, few results from NuScenes dataset are [here](https://github.com/tojimahammatov/tojimahammatov/tree/main/assets).
-- 🌱 Currently I'm working on developing Computer Vision Models to study differences in multiple frames.
+- 🌱 Currently I'm developing Computer Vision Models to analyze sequential and spatio-temporal data.
 - 💞️ I’m open to collaborate on any interesting topics ranging from Software Engineering to Deep Learning.
 - 📫 You can reach me via email.
 
